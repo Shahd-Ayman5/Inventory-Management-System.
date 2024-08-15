@@ -14,3 +14,9 @@
 
 - [**Items Database**](http://127.0.0.1:5000/get_items)
 - [**Users Database**](http://127.0.0.1:5000/users)
+
+# Tools
+
+1. **Front-End**: React, Bootstrap, HTML
+2. **Back-End**: Flask, SQLAlchemy
+3. **Database**: SQLite
