@@ -1,17 +1,16 @@
 # Inventory-Management-System.
 # Instructions
 
-1. **Access the Right Slide**: Click the upper right button to open the menu.
-2. ![navbar]([image_url](images/image.png?raw=true))
-3. **Create a New Account**: Select "Sign Up" to create a new account.
-4. **Log In**: Choose "Log In" if you already have an account.
-5. **View Items**: Click on "Items List" to view the available items.
-6. **Add a New Item**:
+1. **Access the Right Slide**: Click the upper right button to open the menu.![navbar](images/image.png?raw=true)
+2. **Create a New Account**: Select "Sign Up" to create a new account.
+3. **Log In**: Choose "Log In" if you already have an account.
+4. **View Items**: Click on "Items List" to view the available items.
+5. **Add a New Item**:
    - Navigate to the "Items List" page.
    - Enter the details of the new item.
    - Click the "Add" button to submit.
-   - Refresh the webpage to see your new item in the table.
-   ![navbar]([image_url](images/Screenshot 2025-04-17 201516.png))
+   - Refresh the webpage to see your new item in the table.![items](images/Screenshot 2025-04-17 201516.png?raw=true)
+   ![items](images/Screenshot 2025-04-17 201516.png)
 # Database Endpoints
 
 - [**Items Database**](http://127.0.0.1:5000/get_items)
