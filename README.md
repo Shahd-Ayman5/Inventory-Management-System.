@@ -26,19 +26,19 @@
 
 # Figures
 
-**Sign Up**
+## **Sign Up**
 
 ![sign up](images/signup.png?raw=true)
 
-**Sign In**
+## **Sign In**
 
 ![sign up](images/signin.png?raw=true)
 
-**Navbar**
+## **Navbar**
 
 ![navbar](images/image.png?raw=true)
 
-**Show Items**
+## **Show Items**
 
 ![items](images/item.png?raw=true)
 
