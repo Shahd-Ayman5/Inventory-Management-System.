@@ -26,7 +26,11 @@
 
 **Sign Up**
 
-![sign up](images/Screenshot 2025-04-17 200406.png?raw=true)
+![sign up](images/signup.png?raw=true)
+
+**Sign In**
+
+![sign up](images/signin.png?raw=true)
 
 **Navbar**
 
@@ -34,5 +38,5 @@
 
 **Show Items**
 
-![items](images/Screenshot 2025-04-17 201516.png?raw=true)
+![items](images/item.png?raw=true)
 
