@@ -23,10 +23,16 @@
 3. **Database**: SQLite
 
 # Figures
-Navbar
+
+**Sign Up**
+
+![sign up](images/Screenshot 2025-04-17 200406.png?raw=true)
+
+**Navbar**
 
 ![navbar](images/image.png?raw=true)
 
-Show items
+**Show Items**
 
-![navbar](images/image.png?raw=true)
+![items](images/Screenshot 2025-04-17 201516.png?raw=true)
+
