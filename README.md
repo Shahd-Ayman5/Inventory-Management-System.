@@ -2,10 +2,11 @@
 # Instructions
 
 1. **Access the Right Slide**: Click the upper right button to open the menu.
-2. **Create a New Account**: Select "Sign Up" to create a new account.
-3. **Log In**: Choose "Log In" if you already have an account.
-4. **View Items**: Click on "Items List" to view the available items.
-5. **Add a New Item**:
+2. ![navbar]([image_url](https://github.com/Shahd-Ayman5/Inventory-Management-System./blob/main/images/Screenshot%202025-04-17%20201516.png))
+3. **Create a New Account**: Select "Sign Up" to create a new account.
+4. **Log In**: Choose "Log In" if you already have an account.
+5. **View Items**: Click on "Items List" to view the available items.
+6. **Add a New Item**:
    - Navigate to the "Items List" page.
    - Enter the details of the new item.
    - Click the "Add" button to submit.
