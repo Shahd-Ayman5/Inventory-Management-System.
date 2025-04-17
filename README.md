@@ -1,4 +1,6 @@
 # Inventory-Management-System.
+[**Video Link**](https://drive.google.com/file/d/1KD8TPpmV6BQuvGQfVunbllRezBbYN2rV/view?usp=sharing)
+
 # Instructions
 
 1. **Access the Right Slide**: Click the upper right button to open the menu.
