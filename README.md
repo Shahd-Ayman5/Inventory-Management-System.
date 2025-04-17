@@ -11,6 +11,7 @@
    - Enter the details of the new item.
    - Click the "Add" button to submit.
    - Refresh the webpage to see your new item in the table.
+   ![navbar]([image_url](images/Screenshot 2025-04-17 201516.png))
 # Database Endpoints
 
 - [**Items Database**](http://127.0.0.1:5000/get_items)
